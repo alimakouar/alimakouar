@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>
 
   <samp>
-    I'm <a href="https://www.linkedin.com/in/ali-makouar/">Ali</a> currently a 4th year student at <a href="http://ensam-casa.ma">ENSAM CASABLANCA </a> and aspiring software developer. My interest lies in field of Artificial Intelligence and Software Development. 
+    I'm <a href="https://www.linkedin.com/in/ali-makouar/">Ali</a>, currently a 4th year student at <a href="http://ensam-casa.ma">ENSAM CASABLANCA </a> and aspiring software developer. My interest lies in field of Artificial Intelligence and Software Development. 
   </samp>
 </p>
 
