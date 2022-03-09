@@ -82,6 +82,6 @@
 
 ### 🏆 &nbsp;Git profile Trophies
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=dark&background=0d1117" />
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=algolia" />
 <br>
 
