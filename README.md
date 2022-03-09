@@ -75,7 +75,7 @@
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimakouar&layout=compact&langs_count=8&theme=algolia"/>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimakouar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimakouar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <br>
 
@@ -85,6 +85,10 @@
  </p>
 <br>
 
+### 📌 &nbsp;My Favorite Repositories
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHALLOUK-SOUFIANE&repo=OrientationFiliere&theme=algolia)](https://github.com/KHALLOUK-Soufiane/OrientationFiliere)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimakouar&repo=Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning&theme=algolia)](https://github.com/alimakouar/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning)
 
 
