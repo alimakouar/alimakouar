@@ -64,18 +64,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimakouar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimakouar&layout=compact&langs_count=8&theme=algolia"/>
-
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimakouar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ali-makouar" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" /></p>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimakouar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimakouar&layout=compact&langs_count=8&theme=algolia"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" />
 
 <br>
 
