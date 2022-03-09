@@ -25,13 +25,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-makouar/" target="_blank"><img align="center"
-      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="ali makouar" /></a>
   <a href="https://web.facebook.com/ali.makouar" target="_blank"><img align="center"
-      src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white"
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       alt="adam pithen wala" /></a>
  <a href="mailto:makouarali@gmail.com" target="_blank"><img align="center"
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="alimakouar" /></a>
 </p>
 
@@ -41,6 +41,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JQUERY](https://img.shields.io/badge/-JQUERY-05122A?style=flat&logo=jquery)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
@@ -52,12 +53,16 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![LARAVEL](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=laravel)&nbsp;
+![SPRING](https://img.shields.io/badge/-SPRING-05122A?style=flat&logo=spring)&nbsp;
 ![MONGODB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=4EA94B)&nbsp;
 ![MySQL](https://img.shields.io/badge/MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![JUPYTER](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
