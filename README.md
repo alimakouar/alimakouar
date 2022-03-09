@@ -82,6 +82,6 @@
 
 ### 🏆 &nbsp;Git profile Trophies
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=dark&background=0d1117" />
 <br>
 
