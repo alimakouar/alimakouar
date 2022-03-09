@@ -3,10 +3,11 @@
 <h3 align="center">Artificial Intelligence & Software Engineering Student at ENSAM CASABLANCA 🌟.</h3>
 
 <br>
-<div align="center">
+<div align=center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
-  </div>
-  <br>
+
+</div>
+<br>
 
 
 
