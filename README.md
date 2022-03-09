@@ -18,13 +18,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ali-makouar/" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/ali-makouar/" target="blank"><img align="center"
       src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"
       alt="ali makouar" /></a>
-  <a href="https://web.facebook.com/ali.makouar" target="_blank"><img align="center"
+  <a href="https://web.facebook.com/ali.makouar" target="blank"><img align="center"
       src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white"
       alt="adam pithen wala" /></a>
- <a href="mailto:makouarali@gmail.com" target="_blank"><img align="center"
+ <a href="mailto:makouarali@gmail.com" target="blank"><img align="center"
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"
       alt="alimakouar" /></a>
 </p>
