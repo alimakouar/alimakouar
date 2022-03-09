@@ -96,6 +96,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" /></p>
 
 <br>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alimakouar&theme=gruvbox&hide_border=true&area=true)
+
+<br>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=gruvbox" />
