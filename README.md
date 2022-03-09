@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It's+Ali!;I'm+an+Artificial+Intelligence;&Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It's+Ali!;I'm+an+Artificial+Intelligence;And+Software+Engineering+Student)](https://git.io/typing-svg)
 
 
 
