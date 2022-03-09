@@ -1,6 +1,6 @@
-### Welcome to my profile 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ali Makouar </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=100&lines=Hey!+It's+Ali!;I'm+an+Artificial+Intelligence+&+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
 
 
 
