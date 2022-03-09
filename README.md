@@ -64,10 +64,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alimakouar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="alimakouar" 
-    bg_color=#808080/></p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimakouar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimakouar&layout=compact&langs_count=8&theme=algolia"/>
+
 
 <br>
 
@@ -76,12 +75,13 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" /></p>
 
 <br>
 
 ### 🏆 &nbsp;Git profile Trophies
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=algolia" />
+ </p>
 <br>
 
