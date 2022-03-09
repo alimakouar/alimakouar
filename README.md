@@ -4,8 +4,9 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
-
+ <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+To+My+Profile+!" alt="Headline" />
+    </div>
 <br>
 
 
