@@ -94,4 +94,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimakouar&repo=Ensamacademy&theme=algolia)](https://github.com/alimakouar/Ensamacademy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimakouar&repo=web-scraping-bourse-maroc&theme=algolia)](https://github.com/alimakouar/web-scraping-bourse-maroc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHALLOUK-SOUFIANE&repo=EnsamGestion&theme=algolia)](https://github.com/KHALLOUK-Soufiane/EnsamGestion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hello-ENSAM&repo=web-scraping-bourse-maroc&theme=algolia)](https://github.com/alimakouar/Hello-ENSAM)
+
 
