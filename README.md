@@ -95,4 +95,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" /></p>
 
+<br>
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=gruvbox" />
