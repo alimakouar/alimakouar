@@ -80,7 +80,8 @@
 
 <br>
 
-### <img src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=gruvbox" /> &nbsp;Git profile Trophies
+### 🏆 &nbsp;Git profile Trophies
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /></p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /></p>
+<br>
 
