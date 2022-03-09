@@ -83,3 +83,6 @@
  </p>
 <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimakouar&repo=OrientationFiliere)](https://github.com/KHALLOUK-Soufiane/OrientationFiliere)
+
+
