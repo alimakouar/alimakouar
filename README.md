@@ -74,7 +74,7 @@
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" />
  
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimakouar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimakouar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <br>
 
