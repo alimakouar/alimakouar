@@ -21,7 +21,7 @@
 
 <br>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-makouar/" target="_blank"><img align="center"
@@ -35,7 +35,7 @@
 
 <br>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -67,9 +67,9 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<div align="center">
-### ⚙️ &nbsp;GitHub Analytics
 
+## ⚙️ &nbsp;GitHub Analytics
+<div align="center">
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimakouar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimakouar&layout=compact&langs_count=8&theme=algolia"/>
   
@@ -79,14 +79,15 @@
 </div>
 <br>
 
-### 🏆 &nbsp;Git profile Trophies
+## 🏆 &nbsp;Git profile Trophies
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=algolia" />
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alimakouar&theme=algolia" />
  </p>
 <br>
 
-### 📌 &nbsp;My Favorite Repositories
+## 📌 &nbsp;My Favorite Repositories
 
+ <div align="center">
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimakouar&repo=OrientationFiliere&theme=algolia)](https://github.com/alimakouar/OrientationFiliere)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimakouar&repo=Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning&theme=algolia)](https://github.com/alimakouar/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning)
@@ -103,3 +104,4 @@
 
 
  ![Snake animation](https://github.com/alimakouar/alimakouar/blob/output/github-contribution-grid-snake.svg)
+ </div>
