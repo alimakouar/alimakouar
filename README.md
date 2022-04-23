@@ -67,7 +67,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<p align="center">
+<div align="center">
 ### ⚙️ &nbsp;GitHub Analytics
 
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimakouar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -76,7 +76,7 @@
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimakouar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="alimakouar" /> -->
  
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimakouar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  -->
-</p>
+</div>
 <br>
 
 ### 🏆 &nbsp;Git profile Trophies
