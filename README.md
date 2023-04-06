@@ -15,7 +15,6 @@
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="alimakouar" /></p>
 
 
-- 🌱 I’m currently in my 4th year at ENSAM CASABLANCA
 
 - 📫 How to reach me ==>  **makouarali@gmail.com**
 
