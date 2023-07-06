@@ -24,7 +24,7 @@
 
 <br>
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Contact Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-makouar/" target="_blank"><img align="center"
