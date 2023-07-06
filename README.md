@@ -20,8 +20,6 @@
 
 
 
-- 📫 How to reach me ==>  **makouarali@gmail.com**
-
 <br>
 
 ## 🤝🏻 &nbsp;Contact Me
