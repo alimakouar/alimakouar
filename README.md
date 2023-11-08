@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://www.linkedin.com/in/ali-makouar/">Ali Makouar</a> </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ali Makouar</a> </h1>
 
 <h3 align="center">Artificial Intelligence & Software Engineering Student at ENSAM CASABLANCA 🌟.</h3>
 <h3 align="center">🌟 Data Science & Business Intelligence Student at ISIMA Clermont-Auvergne INP .</h3>
