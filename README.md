@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ali Makouar</a> </h1>
 
-<h3 align="center">Artificial Intelligence & Software Engineering Student at ENSAM CASABLANCA 🌟.</h3>
-<h3 align="center">🌟 Data Science & Business Intelligence Student at ISIMA Clermont-Auvergne INP .</h3>
+<h3 align="center">Data Scientist & Artificial Intelligence Engineer 🌟.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alimakouar&label=Profile%20views&color=0e75b6&style=flat" alt="alimakouar" /> </p>
 
