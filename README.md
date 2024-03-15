@@ -50,9 +50,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 
-### Data Science
+### Data Science and Operations Research
 
-- Machine Learning, Deep Learning, Analyse de séries temporelles, Analyse statistique, Data visualization
+- Optimization Tools: Gurobi, GLPK
+- Skills: Machine Learning, Deep Learning, Time Series Analysis, Statistical Analysis, Data Visualization
 
 ### Development Tools and Environments
 
