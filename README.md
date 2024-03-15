@@ -36,7 +36,7 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-### Langages de Programmation
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
@@ -50,11 +50,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 
-### Data Science et Recherche Opérationnelle
+### Data Science
 
 - Machine Learning, Deep Learning, Analyse de séries temporelles, Analyse statistique, Data visualization
 
-### Outils et Environnements de Développement
+### Development Tools and Environments
 
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
@@ -70,21 +70,20 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
 
-### Bases de Données
+### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle)&nbsp;
-<!--
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+### Other
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![JQUERY](https://img.shields.io/badge/-JQUERY-05122A?style=flat&logo=jquery)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)\
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -95,19 +94,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=laravel)&nbsp;
 ![SPRING](https://img.shields.io/badge/-SPRING-05122A?style=flat&logo=spring)&nbsp;
-![MONGODB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=4EA94B)&nbsp;
-![MySQL](https://img.shields.io/badge/MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![JUPYTER](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
--->
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
